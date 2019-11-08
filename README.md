@@ -29,8 +29,7 @@ __Acceptance Criteria__
 
 __Additional Criteria__
 - Use React or Vue.
-- The application SHOULD contains unit / integration tests (e.g. using Spek).
-- The application MUST be completed using an OOP approach.
+- The application SHOULD contains unit / integration tests (e.g. using Mocha).
 - Any dependencies MUST be installed using dependency management tools (npm or yarn).
 - Any installation, build steps, testing and usage instructions MUST be provided in a `README.md`
 file in the root of the application.
