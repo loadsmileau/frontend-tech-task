@@ -28,9 +28,9 @@ __Acceptance Criteria__
 - Given that I get the result of the available recipes, I should see list of the recipes as well the ingredients to make per recipes.
 
 __Additional Criteria__
-- Use React or Vue.
-- The application SHOULD contains unit / integration tests (e.g. using Mocha).
-- Any dependencies MUST be installed using dependency management tools (npm or yarn).
+- Use `React.js` or `Vue.js`.
+- The application SHOULD contains unit / integration tests (e.g. using `Mocha.js`).
+- Any dependencies MUST be installed using dependency management tools (`npm` or `yarn`).
 - Any installation, build steps, testing and usage instructions MUST be provided in a `README.md`
 file in the root of the application.
 
