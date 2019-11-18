@@ -48,4 +48,4 @@ __Instruction__
 2. Use `/recipes?ingredients=<title-1>,<title-n>` to get recipes based on the preferred ingredients title
  
 ## Submission
-The application should be committed to a `public` repository on `GitHub` or `BitBucket` (`<lastname>-<firstname>-techtask-android`) and simply send us a link to the repository.
+The application should be committed to a `public` repository on `GitHub` or `BitBucket` (`<lastname>-<firstname>-techtask-frontend`) and simply send us a link to the repository.
